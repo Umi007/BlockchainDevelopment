@@ -8,7 +8,6 @@ contract basicVariables {
     uint totalCost = chocolateBar + crisps;
 
     // Different types for variables like other languages, for example bool and string!
-
 }
 
 contract useWallet {
@@ -19,5 +18,4 @@ contract useWallet {
     bool spend = false;
     // Create a string with the name notifySpend and add the string value 'You have spent money'
     string notifySpend = "You have spent money";
-
 }
