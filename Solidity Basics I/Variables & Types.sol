@@ -7,7 +7,7 @@ contract basicVariables {
     uint crisps = 3;
     uint totalCost = chocolateBar + crisps;
 
-    // Different types for variables like other languages, for example bool and string!
+    // Different types for variables like other languages, for example bool and string! 
 }
 
 contract useWallet {

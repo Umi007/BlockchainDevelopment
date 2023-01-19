@@ -5,7 +5,7 @@ contract basicFunctions {
 
     function addValues() public view returns(uint) {
 
-        // All variables wrote in functions remains localised in the function
+        // All variables wrote in functions remains localised in the function 
         uint a = 5;
         uint b = 7;
         uint result = a + b;
