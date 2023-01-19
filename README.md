@@ -1,2 +1,3 @@
 # Solidity-BeginnerToExpert
-I have decided to delve into Blockchain coding, within this repository will be all the research and work I have conducted in order to become an expert in the object-oriented language Solidity.
+
+This repo consists of a variety of files in which I have used to better my understanding of Blockchain coding and the object-oriented language Solidty.
